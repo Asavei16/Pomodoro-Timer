@@ -8,7 +8,6 @@
 # Short break minutes = 5
 ![image](https://github.com/Asavei16/Pomodoro-Timer/assets/57408487/e6ee532c-91a6-4c5d-a7ff-c23cf5f4a946)
 
-# Long beak minutes = 20
 
 
 
